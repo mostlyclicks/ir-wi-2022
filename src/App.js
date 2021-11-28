@@ -1,17 +1,13 @@
-import logo from './images/logo6.png';
-import bgImg from './images/s_education3.jpg'
+
 import './App.css';
+import Header from './components/Header'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header" style={{backgroundImage: `url("${bgImg}")`, backgroundRepeat: 'no-repeat', backgroundSize: 'cover' }}>
-      <div className="bg-gray-900 h-100vh w-100vw z-100 absolute border-2">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>Integrated Restorations, LLC</h1>sdffs
-      </div>
-        
-      </header>
+
+      <Header />
+      
       <main>
         <p>
           Site coming soon.
