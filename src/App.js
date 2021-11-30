@@ -1,6 +1,7 @@
 
 import './App.css';
 import Header from './components/Header'
+import About from './components/About'
 
 function App() {
   return (
@@ -9,9 +10,7 @@ function App() {
       <Header />
       
       <main>
-        <p>
-          Site coming soon.
-        </p>
+        <About />
         <p>
           Integrated Restorations, LLC<br/>
           228 S Park St<br/>
