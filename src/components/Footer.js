@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer className="bg-gray-700">
-      <section className="flex justify-end container mx-auto py-8 text-gray-50">
+      <section className="flex justify-between container mx-auto py-8 text-gray-50">
       <div className="text-left mr-8">
         <p>
           Integrated Restorations, LLC<br/>
@@ -15,7 +15,7 @@ const Footer = () => {
         </p>
       
       </div>
-      <div></div>
+      <div>
  
         <a
           className="App-link"
@@ -25,6 +25,7 @@ const Footer = () => {
         >
           Check us out on Facebook!
         </a>
+        </div>
       </section>
     </footer>
   )
