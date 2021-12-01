@@ -13,7 +13,7 @@ const Owner = () => {
 <p className="mt-2 text-gray-700">B.S. Environmental Science, Molecular Biology (1998)<br />
 M.S. Aquatic Botany (2002)</p>
 
-<quote className="text-3xl block m-8 text-gray-900 ">“For me, the appeal of restoration ecology is the opportunity to apply ecological principles to real-world problems to find solutions that concurrently benefit species, habitats, and people”</quote>
+<quote className="text-3xl block m-8 text-gray-700 ">“For me, the appeal of restoration ecology is the opportunity to apply ecological principles to real-world problems to find solutions that concurrently benefit species, habitats, and people”</quote>
 
 <h3 className="text-gray-700 font-bold">Certifications:</h3>
 <p className="mb-4">

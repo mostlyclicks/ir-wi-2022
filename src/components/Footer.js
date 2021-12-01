@@ -16,7 +16,6 @@ const Footer = () => {
       
       </div>
       <div>
- 
         <a
           className="App-link"
           href="https://www.facebook.com/Integratedrestorations"
