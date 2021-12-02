@@ -19,7 +19,7 @@ const Services = () => {
       <p className="text-left ">Land stewardship often involves the entire community. We offer affordable programs designed to supervise, train, and inform individuals of all ages and skill/experience levels on restoration topics, practices, and safety.</p>
     </div>
     <div className=" flex-1  ">
-      <h3 className="font-bold text-xl text-left block xl:h-14">Recreational TrailConstruction & Maintenance</h3>
+      <h3 className="font-bold text-xl text-left block xl:h-14">Recreational Trail Construction & Maintenance</h3>
       <p className="text-left ">Getting smacked in the face by a thorny branch is unpleasant and dangerous. We will keep your recreational trails free of obstacles and fun!</p>
     </div>
     {/* 
