@@ -1,3 +1,5 @@
+
+
 module.exports = {
   //purge: [],
   purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
@@ -8,5 +10,7 @@ module.exports = {
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/forms'),
+  ],
 }

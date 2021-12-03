@@ -2,7 +2,7 @@ import React from 'react'
 
 const Form = () => {
   return (
-    <div>
+    <section>
     <form name="contact" netlify>
       <p>
         <label>Name <input type="text" name="name" /></label>
@@ -20,7 +20,7 @@ const Form = () => {
       </p>
     </form>
       
-    </div>
+    </section>
   )
 }
 
