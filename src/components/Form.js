@@ -4,7 +4,7 @@ const Form = () => {
   return (
     <section className="pt-8 pb-12 bg-gray-100">
     <h2 className="text-3xl font-bold mb-6 text-gray-700">Contact Us</h2>
-    <form name="contact" className="text-gray-600 flex flex-col w-full px-12 sm:w-8/12 sm:mx-auto" netlify>
+    <form name="contact" className="text-gray-600 flex flex-col w-full px-12 sm:w-8/12 sm:mx-auto" data-netlify="true">
       <p className="flex flex-col mb-4">
         <label className="self-start">Name</label>
         <input type="text" name="name" className="rounded-md bg-gray-25 border-gray-300" />
