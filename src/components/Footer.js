@@ -3,8 +3,8 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer className="bg-gray-700">
-      <section className="flex justify-between container mx-auto py-8 text-gray-50">
-      <div className="text-left mr-8">
+      <section className="flex flex-col sm:flex-row sm:justify-between container mx-auto py-8 text-gray-50">
+      <div className="sm:text-left">
         <p>
           Integrated Restorations, LLC<br/>
           228 S Park St<br/>
